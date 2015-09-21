@@ -1,0 +1,8 @@
+LampManager	KEYWORD1
+lamp	KEYWORD1
+getCount	KEYWORD2
+getLamp	KEYWORD2
+sendToTLC	KEYWORD2
+setLampRGB	KEYWORD2
+setLampHSV	KEYWORD2
+setLampLeg	KEYWORD2
